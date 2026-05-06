@@ -17,16 +17,13 @@ The game uses Turbo C graphics (BGI library) and runs on DOSBox or Turbo C++ IDE
 
 ---
 
-## Game Play
 <img width="550" alt="image" src="https://github.com/user-attachments/assets/fd280ad1-7dd0-49d2-8d43-321ce0e35dc1" />
 <br>
 <img width="550" alt="image" src="https://github.com/user-attachments/assets/6aaaa4d4-ffe2-42d5-9fc0-2de2e5d4d3b5" />
 <br>
 <img width="550" alt="image" src="https://github.com/user-attachments/assets/e6c81608-c87c-4d1c-8fd5-8a583ea6eb3a" />
 
-
 ---
-
 ## Technical Stack
 - **Language:** C  
 - **Graphics Library:** Turbo C (BGI)  
