@@ -1,6 +1,6 @@
 # 2D Vehicle Racing Game (C with Turbo C Graphics)
 
-A simple lane-based **racing game** developed in **C** language.
+A simple lane-based racing game developed in C language.
 The game uses Turbo C graphics (BGI library) and runs on DOSBox or Turbo C++ IDE.
 
 ---
@@ -36,7 +36,7 @@ The game uses Turbo C graphics (BGI library) and runs on DOSBox or Turbo C++ IDE
 ---
 
 ## How to Run
-1. Download and install [Turbo C++](https://archive.org/details/turbo-c-3.2) or set up **DOSBox**.  
+1. Download and install [Turbo C++](https://archive.org/details/turbo-c-3.2) or set up DOSBox.  
 2. Place the `Version-1.CPP` file inside the `C:\TurboC3\BIN` folder.  
 3. Open Turbo C++ → Compile and Run (`Ctrl + F9`).  
 4. Enjoy the game.  
@@ -44,7 +44,7 @@ The game uses Turbo C graphics (BGI library) and runs on DOSBox or Turbo C++ IDE
 ---
 
 ## Future Improvements
-- Port game to **SDL2 / SFML** for modern OS support  
-- Add **levels & difficulty modes**  
-- Export as **WebAssembly (Web playable)**  
+- Port game to SDL2 / SFML for modern OS support  
+- Add levels & difficulty modes  
+- Export as WebAssembly (Web playable)  
 
