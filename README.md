@@ -6,14 +6,14 @@ The game uses Turbo C graphics (BGI library) and runs on DOSBox or Turbo C++ IDE
 ---
 
 ## Gameplay Features
-- Player car with **lane-switching mechanics** (← → arrows)
-- **Enemy cars** with collision detection
-- **Coin collection system**
-- **Shield power-up** (activated with Spacebar, costs 10 coins)
-- **Dynamic speed increase** as game progresses
-- **Lives & Score system**
-- **Sound effects** (engine, crash, coin collection)
-- **Game Over screen** with final score and coins collected
+- Player car with lane-switching mechanics (← → arrows)
+- Enemy cars with collision detection
+- Coin collection system
+- Shield power-up (activated with Spacebar, costs 10 coins)
+- Dynamic speed increase as game progresses
+- Lives & Score system
+- Sound effects (engine, crash, coin collection)
+- Game Over screen with final score and coins collected
 
 ---
 
